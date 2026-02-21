@@ -2,7 +2,7 @@
 
 
 
-Permite o controle da posição do(s) led(s) aceso(s) na matriz de led 1088BS (8x8) com Arduino (Mega 2560)  utilizando joystick. Além disso, o circuito possui um botão que, quando clicado altera a condição (aceso/apagado) do led da posição atual. Para apagar todos os leds da matriz, basta segurar o botão por ao menos dois segundos.
+Permite o controle da posição do(s) led(s) aceso(s) na matriz de led 1088BS (8x8) com Arduino (Mega 2560)  utilizando joystick. Além disso, o circuito possui um botão que, quando clicado, altera a condição (aceso/apagado) do led da posição atual. Para apagar todos os leds da matriz, basta segurar o botão por ao menos dois segundos.
 
 
 
